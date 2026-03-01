@@ -1,6 +1,4 @@
-# File Copy Program
-
-A C program that copies files using Unix pipes and forked processes for efficient data transfer.
+##Project 1 CECS Operating systems (Sofia Tejada and Joe) 
 
 ## How it Works
 
