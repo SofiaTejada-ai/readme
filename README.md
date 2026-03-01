@@ -1,4 +1,4 @@
-##Project 1 CECS Operating systems (Sofia Tejada and Joe) 
+## Project 1 CECS Operating systems (Sofia Tejada and Joe) 
 
 ## How it Works
 
