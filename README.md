@@ -74,7 +74,6 @@ On successful copy:
 ```
 File has been opened successfully.
 Child process successfully completed
-Enjoy your new copy :)
 ```
 
 On errors, descriptive error messages are displayed with appropriate exit codes.
